@@ -1,7 +1,7 @@
 # stalker-github
 untuk mencari ingfo lebih detail tentang github kamuh 🥰
 <h1 align='center'>installer copas ae kentot</h1>
-bash ```
+```bash
 pkg update && pkg upgrade
 pkg install git
 pkg install python
@@ -11,4 +11,4 @@ git clone https://github.com/PICKFORD-DC/stalker-github
 cd stalker-github
 python main.py
 ```
-<p>Note : Script Ini Masih Mentah Dan Open Source Kembangkan Sendiri </p>
+<h3>Note : Script Ini Masih Mentah Dan Open Source Kembangkan Sendiri </h3>
